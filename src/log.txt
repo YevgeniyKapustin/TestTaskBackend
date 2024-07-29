@@ -1,0 +1,2 @@
+2024-07-29 13:36:06.113 | DEBUG    | src.ads.services:get:33 - Получен объект ad id1
+2024-07-29 13:36:41.474 | DEBUG    | src.ads.services:get:33 - Получен объект ad id1
