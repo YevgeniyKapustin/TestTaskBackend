@@ -21,5 +21,8 @@ id объявления;
 Все обращения к базе данных должны быть реализованы при помощи ORM запросов.
 ```
 Решение:
-
+![img](https://github.com/user-attachments/assets/0b165916-b2e7-4b20-a9aa-3e50dd6e7531)
+![img_1](https://github.com/user-attachments/assets/1684b0e9-ce3a-4dca-8523-4e684b860452)
+![img_2](https://github.com/user-attachments/assets/f1b8ca8d-518b-431b-8080-1a8a4d4a98c5)
 Запускается просто раном main.py
+
